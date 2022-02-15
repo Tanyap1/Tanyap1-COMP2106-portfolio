@@ -1,9 +1,15 @@
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 20px
 }
-
-
+.nav {
+    background-color:black ;
+    font-weight: bold;
+}
+.nav-link a:hover{
+    color: #fff;
+}
 .footer{
+    color: #beb0a7;
 }
 
 /*cursor----> TAKEN FROM HERE https://codebl0g.wordpress.com/2019/01/28/javascript-animation-dark-light-menu/ */ 

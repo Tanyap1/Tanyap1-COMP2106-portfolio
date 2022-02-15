@@ -53,6 +53,10 @@ font-family: 'Roboto Mono', monospace;
 .content a{
   color: rgb(175, 175, 175);
 }
+.content a:hover{
+  color: white;
+  text-decoration: none;
+}
 .homepage {
   position: relative;
   background: linear-gradient(90deg, rgb(58, 60, 77) 22%, rgb(3, 2, 34) 63%, rgb(56, 56, 56) 99%);
@@ -111,7 +115,7 @@ margin-top:30%
 }
 .flex-item-right {
 background: rgb(130,132,145);
-background: radial-gradient(circle, rgba(130,132,145,1) 22%, rgba(93,92,115,1) 63%, rgba(74,78,122,1) 99%);  padding: 10px;
+background: radial-gradient(circle, rgb(101, 102, 105) 22%, rgba(93,92,115,1) 63%, rgba(74,78,122,1) 99%);  padding: 10px;
   flex: 25%;
   height: 500px;
   border-radius: 25px;
