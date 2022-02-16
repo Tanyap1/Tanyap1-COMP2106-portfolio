@@ -4,8 +4,8 @@ body {
 .nav {
     font-weight: bold;
 }
-.nav-link a:hover{
-    color: #fff;
+li:hover{
+background-color: #818181;}
 }
 .footer{
     color: #beb0a7;
