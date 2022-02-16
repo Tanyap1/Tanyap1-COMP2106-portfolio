@@ -145,6 +145,19 @@ transform: scale(1.1);}
   .flex-container {
     flex-direction: column;
   }
+  
+  .homepage {
+  height: fit-content;
+
+}
+.contact form {
+  max-width: 60%;
+  margin-left: 5%;
+  opacity: .8;
+  margin-top: 50%;
+  width: fit-content;
+
+}
 }
 
 /*icons*/
