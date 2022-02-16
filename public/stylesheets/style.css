@@ -2,7 +2,6 @@ body {
   font: 20px
 }
 .nav {
-    background-color:black ;
     font-weight: bold;
 }
 .nav-link a:hover{
